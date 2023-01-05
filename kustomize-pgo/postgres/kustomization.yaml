@@ -1,0 +1,4 @@
+namespace: postgres-pgo
+
+resources:
+- postgres.yaml
